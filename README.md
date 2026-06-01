@@ -8,7 +8,7 @@ The ML service is a **FastAPI** application that provides two prediction endpoin
 and an analytics endpoint. It uses **scikit-learn** models trained on synthetic
 Kathmandu ride data.
 
-**Base URL:** `http://localhost:8000`
+
 
 ---
 
